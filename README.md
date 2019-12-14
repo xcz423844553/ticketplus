@@ -14,3 +14,17 @@
 - Deployed to Amazon EC2
 
 ## Project Screenshot
+### Event Search
+![Event Search Screenshot](./Event_Search.PNG)
+
+### Event Favorite
+![Event Favorite Screenshot](./Event_Favorite.PNG)
+
+### Event Recommendation
+![Event Recommendation Screenshot](./Event_Recommendation.PNG)
+
+### Login
+![Loging Screenshot](./Login.PNG)
+
+### Register
+![Register Screenshot](./Register.PNG)
